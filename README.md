@@ -42,10 +42,11 @@ The dataset includes:
 ## 📸 Dashboard Preview
 
 ![Campaign Effectiveness](https://raw.githubusercontent.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/main/Campaign%20Effectiveness.png)
-https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Follower%20Retention%20%26%20Loyalty.png
-https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Hashtag%20%26%20Content%20Strategy.png
-https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Platform%20Analysis.png
+![Follower Retention & Loyalty](https://raw.githubusercontent.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/main/Follower%20Retention%20%26%20Loyalty.png)
 
+![Hashtag & Content Strategy](https://raw.githubusercontent.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/main/Hashtag%20%26%20Content%20Strategy.png)
+
+![Platform Analysis](https://raw.githubusercontent.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/main/Platform%20Analysis.png)
 
 ## 📌 Conclusion
 This analysis helps understand audience behavior and optimize marketing strategies for better engagement and reach.
