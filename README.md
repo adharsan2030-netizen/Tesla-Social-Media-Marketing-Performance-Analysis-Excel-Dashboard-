@@ -40,8 +40,8 @@ The dataset includes:
 - Visual charts for performance comparison
 
 ## 📸 Dashboard Preview
-(Add screenshots here)
-https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Campaign%20Effectiveness.png
+
+![Campaign Effectiveness](https://raw.githubusercontent.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/main/Campaign%20Effectiveness.png)
 https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Follower%20Retention%20%26%20Loyalty.png
 https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Hashtag%20%26%20Content%20Strategy.png
 https://github.com/adharsan2030-netizen/Tesla-Social-Media-Marketing-Performance-Analysis-Excel-Dashboard-/blob/main/Platform%20Analysis.png
